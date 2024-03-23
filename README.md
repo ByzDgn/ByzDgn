@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ByzDgn
+- 👋 Hi, I’m Beyza Nur Dogan
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python,SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
