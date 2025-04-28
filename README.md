@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Beyza Nur Dogan
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Python,SQL 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Beyza Nur Doğan
 
-<!---
-ByzDgn/ByzDgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Engineer
+🔒 Interested in DevOps, Cloud Technologies, and Cybersecurity
+
+## 🛠️ Skills
+- Git & GitHub
+- Python, SQL basics
+- Cloud fundamentals (AWS, Vercel)
+
+## 📚 Currently Learning
+- DevSecOps practices
+- Security in DevOps pipelines
+
+## 📫 Reach Me
+- ✉️ Email: beyzadoan7@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/beyzanurdogan1/
